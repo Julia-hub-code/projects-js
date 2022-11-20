@@ -24,4 +24,3 @@ console.log (myAgeInDogYears);
 let myName = 'Julia';
 
 console.log (` My name is ${myName}. I am ${myAge} years old in human years wich is ${myAgeInDogYears} years old in dog years.` );
-
